@@ -1,4 +1,4 @@
-import os,sys   # múltiplos imports na mesma linha (E401)
+import os,sys,maltplotlib   # múltiplos imports na mesma linha (E401)
 
 
 def handler(event,context):   # espaços errados (E231), nome ok mas estilo ruim
